@@ -1,8 +1,18 @@
 name: storm
-summary: <Fill in summary here>
+summary: Storm is a distributed realtime computation system.
 maintainer: Mark Mims <mark.mims@canonical.com>
 description: |
-  <Multi-line description here>
+  Storm is a distributed realtime computation system. Similar to how Hadoop
+  provides a set of general primitives for doing batch processing, Storm
+  provides a set of general primitives for doing realtime computation. Storm is
+  simple, can be used with any programming language, is used by many companies,
+  and is a lot of fun to use!
+
+  The Rationale page on the wiki explains what Storm is and why it was built.
+  This presentation is also a good introduction to the project.
+
+  Storm has a website at storm-project.net. Follow @stormprocessor on Twitter
+  for updates on the project.
 provides:
   relation-name:
     interface: interface-name
